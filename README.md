@@ -1,3 +1,7 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/fsotcys3bnhkew8l?svg=true)](https://ci.appveyor.com/project/nikitakozhukhar/samediaform)
+
+https://nikitakozhukhar.github.io/samediaForm/ - посмотреть результат на GH-pages
+
 # Тестовое задание для SAMEDIA. Создание формы авторизации
 
 1. Требования БЭМ
